@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "tars",
+    "slug": "tars",
+    "scheme": "tars-expo-router",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.amodhorg.tars"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "457e5c2e-e03b-485b-829d-5a423caa4997"
+      }
+    },
+    "owner": "amodh-org",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
