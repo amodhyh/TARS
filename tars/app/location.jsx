@@ -4,8 +4,11 @@ export default function location(){
 
 
     return(
-        <View>
+        <>        <View>
             <Text>Location Page</Text>
         </View>
+        <View><Text>Realtime Map</Text></View>
+        </>
+
     )
 }
