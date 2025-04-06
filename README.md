@@ -44,5 +44,5 @@ graph TD
     C[GPS Module] --> B
     B --> D{Firebase Cloud}
     D --> E[Mobile App]
-    E --> F[Admin Dashboard]
-    E --> G[Parent View]
+    E --> F[User]
+   
