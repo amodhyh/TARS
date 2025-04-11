@@ -5,7 +5,7 @@
 import { initializeApp } from 'firebase/app';
 import { getDatabase } from 'firebase/database';
 // Your web app's Firebase configurat
-const  firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyCYNClhZgsqVfwuQMamAfDXpH3x0ulQlqs",
   authDomain: "tars-90cbb.firebaseapp.com",
   databaseURL: "https://tars-90cbb-default-rtdb.asia-southeast1.firebasedatabase.app",
