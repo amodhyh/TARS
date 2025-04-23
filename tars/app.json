@@ -18,9 +18,7 @@
     },
     "android": {
       "config": {
-        "googleMaps": {
-          "apiKey": "process.env.AIzaSyDvwlM-VFgfsNReJBSYHyijOw3UZ5Rgtks"
-        }
+        
       },
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
