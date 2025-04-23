@@ -100,5 +100,14 @@ npx expo start
 ```
 
 ## 📬 Contact
-**Project Lead:**  H.M.A. Yasitha Herath
+
+**H.M.A. Yasitha Herath** : 2021/E/045 : amodhwork@gmail.com
+
+2020/E/131 : RATHNAYAKE U.S 
+
+2021/E/038 : NUGEGODAARACHCHI G.L 
+
+2021/E/090 : BANDARA S.C.M 
+
+
 **GitHub:** @amodhyh
