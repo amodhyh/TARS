@@ -46,7 +46,4 @@ graph TD
     D --> E[Mobile App]
     E --> F[User]
 ```
-## App Overview 
-###Home Screen 
-![Screenshot_1744300305](https://github.com/user-attachments/assets/3302b2bd-51d8-4270-9ba4-f1e1063a87e6)
 
