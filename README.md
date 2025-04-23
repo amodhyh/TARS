@@ -2,7 +2,6 @@
 
 A comprehensive solution for real-time school bus tracking and automated student attendance using RFID technology, GPS tracking, and Firebase integration.
 
-![System Overview](https://via.placeholder.com/800x400.png?text=Smart+Bus+System+Architecture) *Add actual system diagram screenshot*
 
 ## Key Features ✨
 - **Real-time GPS Tracking** - Live bus location updates every 10 seconds
