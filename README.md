@@ -49,13 +49,14 @@ graph TD
 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 A smart bus tracker built with Expo React Native, delivering real-time transit updates, route planning, and seamless commuting.
 
 <div align="center">
-  <img src="/assets/screen1.png" width="30%" alt="Home Screen" />
+  <img src="https://github.com/user-attachments/assets/0e70b77f-7b71-431e-96ac-421c67e16557
+" width="30%" alt="Home Screen" />
   <img src="/assets/screen2.png" width="30%" alt="Map View" />
   <img src="/assets/screen3.png" width="30%" alt="Route Details" />
 </div>
