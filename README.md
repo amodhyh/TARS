@@ -46,4 +46,56 @@ graph TD
     D --> E[Mobile App]
     E --> F[User]
 ```
+# 🚍 Mobile App
 
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+A smart bus tracker built with Expo React Native, delivering real-time transit updates, route planning, and seamless commuting.
+
+<div align="center">
+  <img src="/assets/screen1.png" width="30%" alt="Home Screen" />
+  <img src="/assets/screen2.png" width="30%" alt="Map View" />
+  <img src="/assets/screen3.png" width="30%" alt="Route Details" />
+</div>
+
+
+
+## 🛠 Tech Stack
+| Category          | Technology                          |
+|-------------------|-------------------------------------|
+| Framework         | Expo React Native                   |
+| Language          | JavaScript                          |
+| Styling           | NativeWind (Tailwind for RN)        |
+| Navigation        | React Navigation                   |
+| Backend           | Firebase (Auth, Firestore, Cloud Functions) |
+| Maps              | Google Maps API                    |
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v18 or later)
+- Expo CLI (`npm install -g expo-cli`)
+- Yarn or npm
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-username/tars-mobile.git
+cd tars-mobile
+```
+### Install dependencies
+
+### Setup environment
+```bash
+cp .env.example .env
+```
+### Add your API keys in the app.json file
+### Add the firebase configuration file to the config folder
+
+### Start the development server
+```bash
+npx expo start
+```
