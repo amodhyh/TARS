@@ -11,7 +11,7 @@ A comprehensive solution for real-time school bus tracking and automated student
 - **Historical Data** - Attendance records and route history
 - **Emergency Alerts** - Instant notifications for route deviations
 
-##Circuit diagram
+## Circuit diagram
 ![Wiring Diagram](https://github.com/user-attachments/assets/53aceaec-2968-482f-9ef0-428b3433af1e)
 
 ## Hardware Components 🛠️
@@ -55,7 +55,7 @@ graph TD
 A smart bus tracker built with Expo React Native, delivering real-time transit updates, route planning, and seamless commuting.
 
 <div align="center">
-  <img src="/assets/screen1.png" width="30%" alt="Home Screen" />
+  <img src="/assets/screen1.jpg" width="30%" alt="Home Screen" />
   <img src="/assets/screen2.png" width="30%" alt="Map View" />
   <img src="/assets/screen3.png" width="30%" alt="Route Details" />
 </div>
