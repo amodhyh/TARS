@@ -55,7 +55,7 @@ graph TD
 A smart bus tracker built with Expo React Native, delivering real-time transit updates, route planning, and seamless commuting.
 
 <div align="center">
-  <img src="/assets/screen1.jpg" width="30%" alt="Home Screen" />
+  <img src="/assets/screen1.png" width="30%" alt="Home Screen" />
   <img src="/assets/screen2.png" width="30%" alt="Map View" />
   <img src="/assets/screen3.png" width="30%" alt="Route Details" />
 </div>
