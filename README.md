@@ -100,7 +100,7 @@ npx expo start
 ```
 
 ## 📬 Contact
-
+This is a collabarative effort by 4 students who study embedded systems
 **H.M.A. Yasitha Herath** : 2021/E/045 : amodhwork@gmail.com
 
 2020/E/131 : RATHNAYAKE U.S 
